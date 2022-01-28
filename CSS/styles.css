@@ -1,23 +1,25 @@
-
-
-
-
-hr
-
-{
-      background-color: lightblue;
+hr {
+  background-color: lightblue;
 }
 
+hr {
+  background-color: #14171a;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #14171a;
+  border-width: 5px;
+  width: 5%
+}
 
-hr
+.img { display:inline-block;
+        image height: auto:
+        image width: auto:
+}
 
-{
-      background-color: #14171a;
-      image height: 20px;
-      image width: 20px;
-      border-style: none;
-      border-top-style: dotted;
-      border-color: #14171a;
-      border-width: 5px;
-      width:5%;
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
 }
