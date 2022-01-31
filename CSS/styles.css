@@ -6,7 +6,6 @@ hr
 
 
 hr
-
 {
       background-color: #14171a;
       border-style: none;
@@ -17,6 +16,9 @@ hr
     }
 
 
-#H1heading {
-              MediumSeaGreen:
-      }
+
+  .h1 heading { color: MediumSeaGreen}
+
+  .h2 heading { color: #73FB73}
+
+  .h3 heading  { color: #A0EF51}
